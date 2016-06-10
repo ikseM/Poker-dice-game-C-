@@ -1,0 +1,9 @@
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\bin\Debug\Projekt - dice game.exe.config
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\bin\Debug\Projekt - dice game.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\bin\Debug\Projekt - dice game.pdb
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt - dice game.csprojResolveAssemblyReference.cache
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt___dice_game.Form1.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt___dice_game.Properties.Resources.resources
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt - dice game.csproj.GenerateResource.Cache
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt - dice game.exe
+c:\users\paweł\documents\visual studio 2013\Projects\Projekt - dice game\Projekt - dice game\obj\Debug\Projekt - dice game.pdb
